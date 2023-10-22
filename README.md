@@ -5,7 +5,7 @@
 ```mermaid
 classDiagram
   class Destination {
-    + destination: string
+    + name: string
     + description: string
   }
 
